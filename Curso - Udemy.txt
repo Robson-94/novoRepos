@@ -1,0 +1,120 @@
+let e var (primeira diferença) NÃO UTILIZAR P VAR!!!
+Com VAR é possível declarar e redeclarar, entretanto, com o LET não é possível.
+
+const - tem seu valor fixo, não podendo ser modificado por códigos.
+typeof - descobrir o tipo da variável.
+template strings (concatenação) - apenas dentro de crases utilizando o cifrão '$'.
+boolean - true (verdadeiro) ou false (falso) - valor lógico.
+
+Var - 
+Let - 
+Const - 
+
+Tipos de Dados Primitivos (imultável) - Valores copiados:
+String - 
+Number - 
+Boolean - 
+Undefined - 
+Null -
+BIGINT - 
+SYMBOL -
+Tipos de Dadps de Referência (mutáveis) - Passados por referência:
+Array [] - 
+Object {} - 
+Function - 
+
+Operadores Aritméticos:
++ Adição e Concatenação
+- subtração
+* Multiplicação
+/ Divisão
+** Potenciação
+% Resto de divisão
+++ Incremento (igual a + 1) Podendo ser PRÉ ou PÓS. Ex.: ++exemplo;/exemplo++;
+-- Decremento (igual a - 1) Podendo ser PRÉ ou PÓS. Ex.: --exemplo;/exemplo--;
+Operadores de Atribuição:
++= 
+*=
+**=
+
+NaN = Not a Number (Não é um número)
+
+parseInt - Converte para um número inteiro.
+parseFloat - Converte para um número decimal.
+Number - Converte para inteiro ou decimal.
+
+\\ caractere de escape.
+
+alert - aviso so usuário.
+prompt - caixa para digitação do usuário.
+confirm - opções de CANCELAR e OK ao usuário.
+
+
+indexOf() - indicar o índice do início do string.
+lastIndexOf() - indica o índice do início do string, porém de trás pra frente.
+charAt() ou [] - Indica quem está na posição tal.
+match (expressão regular) - 
+search - 
+replace g - 
+length - indica a quantidade de caractere de uma texto string.
+slice() - fateamento da string.
+split(' ') - Mostra as palavras de uma string.
+toUpperCase() - deixa o texto da string em maiúsculo.
+toLowerCas() - deixa o texto da string em minúsculo.
+
+SITES IMPORTANTES: w2schools e mdn
+
+innerHTML - 
+
+toString() - 
+toFixed() - 
+Number.isInteger() - Indetifica se o número é inteiro ou não (true ou false).
+Number.isNaN() - Confirma se a conta pode ser realizada ou não (true ou false).
+Math.floor() - Arredonda pra baixo.
+Math.ceil() - Arredonda pra cima.
+Math.round() - Arredonda para o número mais próximo.
+Math.max() - Mostra o maior número.
+Math.min() - Mostra o menor número.
+Math.random() - Gera número aleatório.
+Math.PI - 
+Math.pow() ou ** - Potenciação
+(1/2) ou 0.5 - Raiz quadrada.
+getElementById() - Seleciona um id.
+
+[] - Utiliza para criar arrays.
+push() e [length] - adiciona no fim.
+pop() - remove o último.
+[] - Utiliza para alterar índices.
+unshift - adiciona no começo.
+shift - remove o primeiro.
+delete[] - apaga o elemento específico.
+slice - selecionar.
+instaceof - questiona se é array ou não.
+
+function() - 
+return - Última linha do escopo da função.
+
+**colchetes para array e chaves para objeto.
+
+[...a] - 
+
+Ctrl l - Comando para limpar o console do navegador.
+Ctrl k c - Comentar várias linhas com seleção rápida.
+
+preventDefault - 
+addEventListener -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
